@@ -1,0 +1,21 @@
+.room {
+    height: 95vh;
+    margin: 0;
+    padding: 0;
+}
+
+.dark {
+
+    background-color: black;
+    color: white;
+}
+
+.bright {
+    background-color: white;
+    color: black;
+}
+
+.btn {
+    padding: 10px;
+    margin: 0px 5px;
+}
